@@ -1,0 +1,408 @@
+{}{
+    "ZywOo_stats": {
+        "individual_stats": {
+            "overall_stats": {
+                "kills": "18589",
+                "deaths": "13479",
+                "kill__death": "1.38",
+                "kill__round": "0.85",
+                "rounds_with_kills": "11591",
+                "kill__death_difference": "5110"
+            },
+            "opening_stats": {
+                "total_opening_kills": "3441",
+                "total_opening_deaths": "2152",
+                "opening_kill_ratio": "1.60",
+                "opening_kill_rating": "1.29",
+                "team_win_percent_after_first_kill": "73.3%",
+                "first_kill_in_won_rounds": "21.8%"
+            },
+            "round_stats": {
+                "0_kill_rounds": "10201",
+                "1_kill_rounds": "6634",
+                "2_kill_rounds": "3351",
+                "3_kill_rounds": "1234",
+                "4_kill_rounds": "309",
+                "5_kill_rounds": "63"
+            },
+            "weapon_stats": {
+                "rifle_kills": "6660",
+                "sniper_kills": "6937",
+                "smg_kills": "1176",
+                "pistol_kills": "3600",
+                "grenade": "216",
+                "other": "40"
+            }
+        }
+    }
+}{
+    "s1mple_stats": {
+        "individual_stats": {
+            "overall_stats": {
+                "kills": "31218",
+                "deaths": "23501",
+                "kill__death": "1.33",
+                "kill__round": "0.85",
+                "rounds_with_kills": "19847",
+                "kill__death_difference": "7717"
+            },
+            "opening_stats": {
+                "total_opening_kills": "5257",
+                "total_opening_deaths": "3326",
+                "opening_kill_ratio": "1.58",
+                "opening_kill_rating": "1.23",
+                "team_win_percent_after_first_kill": "74.7%",
+                "first_kill_in_won_rounds": "20.6%"
+            },
+            "round_stats": {
+                "0_kill_rounds": "16748",
+                "1_kill_rounds": "11520",
+                "2_kill_rounds": "5842",
+                "3_kill_rounds": "1994",
+                "4_kill_rounds": "440",
+                "5_kill_rounds": "51"
+            },
+            "weapon_stats": {
+                "rifle_kills": "13028",
+                "sniper_kills": "11592",
+                "smg_kills": "815",
+                "pistol_kills": "5450",
+                "grenade": "162",
+                "other": "226"
+            }
+        }
+    }
+}{
+    "sh1ro_stats": {
+        "individual_stats": {
+            "overall_stats": {
+                "kills": "14447",
+                "deaths": "10034",
+                "kill__death": "1.44",
+                "kill__round": "0.77",
+                "rounds_with_kills": "9533",
+                "kill__death_difference": "4413"
+            },
+            "opening_stats": {
+                "total_opening_kills": "2174",
+                "total_opening_deaths": "1167",
+                "opening_kill_ratio": "1.86",
+                "opening_kill_rating": "1.14",
+                "team_win_percent_after_first_kill": "76.9%",
+                "first_kill_in_won_rounds": "16.3%"
+            },
+            "round_stats": {
+                "0_kill_rounds": "9248",
+                "1_kill_rounds": "5894",
+                "2_kill_rounds": "2587",
+                "3_kill_rounds": "855",
+                "4_kill_rounds": "171",
+                "5_kill_rounds": "26"
+            },
+            "weapon_stats": {
+                "rifle_kills": "2873",
+                "sniper_kills": "8521",
+                "smg_kills": "455",
+                "pistol_kills": "2477",
+                "grenade": "135",
+                "other": "44"
+            }
+        }
+    }
+}{
+    "Kaze_stats": {
+        "individual_stats": {
+            "overall_stats": {
+                "kills": "15937",
+                "deaths": "12063",
+                "kill__death": "1.32",
+                "kill__round": "0.79",
+                "rounds_with_kills": "10330",
+                "kill__death_difference": "3874"
+            },
+            "opening_stats": {
+                "total_opening_kills": "2430",
+                "total_opening_deaths": "1428",
+                "opening_kill_ratio": "1.70",
+                "opening_kill_rating": "1.15",
+                "team_win_percent_after_first_kill": "76.2%",
+                "first_kill_in_won_rounds": "17.1%"
+            },
+            "round_stats": {
+                "0_kill_rounds": "9914",
+                "1_kill_rounds": "6181",
+                "2_kill_rounds": "2933",
+                "3_kill_rounds": "995",
+                "4_kill_rounds": "201",
+                "5_kill_rounds": "20"
+            },
+            "weapon_stats": {
+                "rifle_kills": "4418",
+                "sniper_kills": "8080",
+                "smg_kills": "542",
+                "pistol_kills": "2597",
+                "grenade": "153",
+                "other": "194"
+            }
+        }
+    }
+}{
+    "degster_stats": {
+        "individual_stats": {
+            "overall_stats": {
+                "kills": "10802",
+                "deaths": "8274",
+                "kill__death": "1.31",
+                "kill__round": "0.79",
+                "rounds_with_kills": "7024",
+                "kill__death_difference": "2528"
+            },
+            "opening_stats": {
+                "total_opening_kills": "1925",
+                "total_opening_deaths": "1159",
+                "opening_kill_ratio": "1.66",
+                "opening_kill_rating": "1.23",
+                "team_win_percent_after_first_kill": "74.2%",
+                "first_kill_in_won_rounds": "20.0%"
+            },
+            "round_stats": {
+                "0_kill_rounds": "6634",
+                "1_kill_rounds": "4194",
+                "2_kill_rounds": "2041",
+                "3_kill_rounds": "645",
+                "4_kill_rounds": "129",
+                "5_kill_rounds": "15"
+            },
+            "weapon_stats": {
+                "rifle_kills": "3039",
+                "sniper_kills": "5669",
+                "smg_kills": "225",
+                "pistol_kills": "1746",
+                "grenade": "135",
+                "other": "25"
+            }
+        }
+    }
+}{
+    "sterling_stats": {
+        "individual_stats": {
+            "overall_stats": {
+                "kills": "13778",
+                "deaths": "10406",
+                "kill__death": "1.32",
+                "kill__round": "0.78",
+                "rounds_with_kills": "9195",
+                "kill__death_difference": "3372"
+            },
+            "opening_stats": {
+                "total_opening_kills": "2047",
+                "total_opening_deaths": "1119",
+                "opening_kill_ratio": "1.83",
+                "opening_kill_rating": "1.14",
+                "team_win_percent_after_first_kill": "77.2%",
+                "first_kill_in_won_rounds": "16.6%"
+            },
+            "round_stats": {
+                "0_kill_rounds": "8382",
+                "1_kill_rounds": "5737",
+                "2_kill_rounds": "2514",
+                "3_kill_rounds": "781",
+                "4_kill_rounds": "145",
+                "5_kill_rounds": "18"
+            },
+            "weapon_stats": {
+                "rifle_kills": "3881",
+                "sniper_kills": "6981",
+                "smg_kills": "407",
+                "pistol_kills": "2345",
+                "grenade": "163",
+                "other": "27"
+            }
+        }
+    }
+}{
+    "smooya_stats": {
+        "individual_stats": {
+            "overall_stats": {
+                "kills": "15105",
+                "deaths": "12041",
+                "kill__death": "1.25",
+                "kill__round": "0.78",
+                "rounds_with_kills": "9762",
+                "kill__death_difference": "3064"
+            },
+            "opening_stats": {
+                "total_opening_kills": "2670",
+                "total_opening_deaths": "1869",
+                "opening_kill_ratio": "1.43",
+                "opening_kill_rating": "1.20",
+                "team_win_percent_after_first_kill": "76.3%",
+                "first_kill_in_won_rounds": "20.3%"
+            },
+            "round_stats": {
+                "0_kill_rounds": "9485",
+                "1_kill_rounds": "5857",
+                "2_kill_rounds": "2725",
+                "3_kill_rounds": "941",
+                "4_kill_rounds": "220",
+                "5_kill_rounds": "19"
+            },
+            "weapon_stats": {
+                "rifle_kills": "3745",
+                "sniper_kills": "8048",
+                "smg_kills": "523",
+                "pistol_kills": "2690",
+                "grenade": "116",
+                "other": "25"
+            }
+        }
+    }
+}{
+    "XANTARES_stats": {
+        "individual_stats": {
+            "overall_stats": {
+                "kills": "31777",
+                "deaths": "26554",
+                "kill__death": "1.20",
+                "kill__round": "0.81",
+                "rounds_with_kills": "20194",
+                "kill__death_difference": "5223"
+            },
+            "opening_stats": {
+                "total_opening_kills": "5300",
+                "total_opening_deaths": "4164",
+                "opening_kill_ratio": "1.27",
+                "opening_kill_rating": "1.17",
+                "team_win_percent_after_first_kill": "74.8%",
+                "first_kill_in_won_rounds": "19.1%"
+            },
+            "round_stats": {
+                "0_kill_rounds": "18821",
+                "1_kill_rounds": "11753",
+                "2_kill_rounds": "5877",
+                "3_kill_rounds": "2038",
+                "4_kill_rounds": "475",
+                "5_kill_rounds": "51"
+            },
+            "weapon_stats": {
+                "rifle_kills": "25231",
+                "sniper_kills": "291",
+                "smg_kills": "765",
+                "pistol_kills": "5198",
+                "grenade": "313",
+                "other": "32"
+            }
+        }
+    }
+}{
+    "Sico_stats": {
+        "individual_stats": {
+            "overall_stats": {
+                "kills": "15694",
+                "deaths": "12014",
+                "kill__death": "1.31",
+                "kill__round": "0.76",
+                "rounds_with_kills": "10563",
+                "kill__death_difference": "3680"
+            },
+            "opening_stats": {
+                "total_opening_kills": "2422",
+                "total_opening_deaths": "1255",
+                "opening_kill_ratio": "1.93",
+                "opening_kill_rating": "1.15",
+                "team_win_percent_after_first_kill": "81.2%",
+                "first_kill_in_won_rounds": "16.7%"
+            },
+            "round_stats": {
+                "0_kill_rounds": "10028",
+                "1_kill_rounds": "6666",
+                "2_kill_rounds": "2850",
+                "3_kill_rounds": "878",
+                "4_kill_rounds": "151",
+                "5_kill_rounds": "18"
+            },
+            "weapon_stats": {
+                "rifle_kills": "4160",
+                "sniper_kills": "7063",
+                "smg_kills": "911",
+                "pistol_kills": "3149",
+                "grenade": "414",
+                "other": "26"
+            }
+        }
+    }
+}{
+    "XigN_stats": {
+        "individual_stats": {
+            "overall_stats": {
+                "kills": "12744",
+                "deaths": "10464",
+                "kill__death": "1.22",
+                "kill__round": "0.80",
+                "rounds_with_kills": "8254",
+                "kill__death_difference": "2280"
+            },
+            "opening_stats": {
+                "total_opening_kills": "1905",
+                "total_opening_deaths": "1637",
+                "opening_kill_ratio": "1.16",
+                "opening_kill_rating": "1.09",
+                "team_win_percent_after_first_kill": "71.9%",
+                "first_kill_in_won_rounds": "16.0%"
+            },
+            "round_stats": {
+                "0_kill_rounds": "7753",
+                "1_kill_rounds": "4960",
+                "2_kill_rounds": "2303",
+                "3_kill_rounds": "806",
+                "4_kill_rounds": "165",
+                "5_kill_rounds": "20"
+            },
+            "weapon_stats": {
+                "rifle_kills": "9139",
+                "sniper_kills": "355",
+                "smg_kills": "925",
+                "pistol_kills": "2214",
+                "grenade": "92",
+                "other": "39"
+            }
+        }
+    }
+}{
+    "device_stats": {
+        "individual_stats": {
+            "overall_stats": {
+                "kills": "34738",
+                "deaths": "27790",
+                "kill__death": "1.25",
+                "kill__round": "0.78",
+                "rounds_with_kills": "22684",
+                "kill__death_difference": "6948"
+            },
+            "opening_stats": {
+                "total_opening_kills": "5944",
+                "total_opening_deaths": "4237",
+                "opening_kill_ratio": "1.40",
+                "opening_kill_rating": "1.17",
+                "team_win_percent_after_first_kill": "78.7%",
+                "first_kill_in_won_rounds": "18.9%"
+            },
+            "round_stats": {
+                "0_kill_rounds": "21902",
+                "1_kill_rounds": "13741",
+                "2_kill_rounds": "6427",
+                "3_kill_rounds": "2024",
+                "4_kill_rounds": "446",
+                "5_kill_rounds": "46"
+            },
+            "weapon_stats": {
+                "rifle_kills": "13939",
+                "sniper_kills": "12096",
+                "smg_kills": "1529",
+                "pistol_kills": "6691",
+                "grenade": "405",
+                "other": "113"
+            }
+        }
+    }
+}
